@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Clarity: Founder Mode",
+  "description": "A calm, analytical thinking partner for founders to distill chaos into structured decisions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
